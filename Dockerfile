@@ -1,4 +1,4 @@
-FROM maven:3-jdk-9-slim
+FROM maven:3-jdk-10-slim
 
 MAINTAINER Tim Dekarz <tim.dekarz@[hidden]>
 
