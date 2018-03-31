@@ -1,6 +1,6 @@
-[![Docker Stars](https://img.shields.io/docker/stars/tdekarz/docker-maven-jdk10-onbuild.svg)](https://hub.docker.com/r/tdekarz/docker-node-angular-express/)
-[![Docker Pulls](https://img.shields.io/docker/pulls/tdekarz/docker-maven-jdk10-onbuild.svg)](https://hub.docker.com/r/tdekarz/docker-node-angular-express/)
-[![License](https://img.shields.io/github/license/magystius/docker-maven-jdk10-onbuild.svg)](https://github.com/magystius/docker-node-angular-express/blob/master/LICENSE.md)
+[![Docker Stars](https://img.shields.io/docker/stars/tdekarz/docker-maven-jdk10-onbuild.svg)](https://hub.docker.com/r/tdekarz/docker-maven-jdk10-onbuild/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/tdekarz/docker-maven-jdk10-onbuild.svg)](https://hub.docker.com/r/tdekarz/docker-maven-jdk10-onbuild/)
+[![License](https://img.shields.io/github/license/magystius/docker-maven-jdk10-onbuild.svg)](https://github.com/magystius/docker-maven-jdk10-onbuild/blob/master/LICENSE.md)
 # Docker-Maven-JDK10-OnBuild
 
 Docker image based on the latest maven-3 & openjdk-10 docker images. 
